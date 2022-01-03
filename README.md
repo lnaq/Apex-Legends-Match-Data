@@ -8,6 +8,10 @@ This is a personal project that uses an unofficial Apex Legends Api in order to 
 2. You will need an api key and you will have to paste it in the config file under the API variable
 3. In order to track a player's match history you need to add them in the players.json file under their platfrom
 
+# Please NOTE
+
+You are only going to track the data of the given players *only* when the BridgeRequst.py is running! 
+
 # What if it doesn't work?
 
 The developer keeps working on his api, adding stuff, changing etc.. so if something doesn't work it's because of that and because I am not gonna update update this project.
