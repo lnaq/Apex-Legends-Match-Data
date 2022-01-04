@@ -4,9 +4,10 @@ This is a personal project that uses an unofficial Apex Legends Api in order to 
 
 # What do I need for it in order to work?
 
-1. Your API must be whitelisted
-2. You will need an api key and you will have to paste it in the config file under the API variable
-3. In order to track a player's match history you need to add them in the players.json file under their platfrom
+1. install requirements.txt, you have to root to the project folder and type in this command: pip install -r requirements.txt
+2. Your API must be whitelisted
+3. You will need an api key and you will have to paste it in the config file under the API variable
+4. In order to track a player's match history you need to add them in the players.json file under their platfrom
 
 # Please NOTE
 
