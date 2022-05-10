@@ -1,8 +1,8 @@
 # What's this project?
 
-This is a personal project that uses an unofficial Apex Legends Api in order to get the match history from a play in Apex Legends. (https://apexlegendsapi.com/)
+This is a personal project that uses an unofficial Apex Legends Api in order to get the match history from any given player in Apex Legends. (https://apexlegendsapi.com/)
 
-# What do I need for it in order to work?
+# Install && Requirements
 
 1. install requirements.txt, you have to root to the project folder and type in this command: pip install -r requirements.txt
 2. Your API must be whitelisted
@@ -11,13 +11,9 @@ This is a personal project that uses an unofficial Apex Legends Api in order to 
 
 # Please NOTE
 
-You are only going to track the data of the given players *only* when the BridgeRequst.py is running! 
+You are only going to track the data of the given player's *only* when BridgeRequest.py is/was running!
 
-# What if it doesn't work?
-
-The developer keeps working on his api, adding stuff, changing etc.. so if something doesn't work it's because of that and because I am not gonna update update this project.
-
-VS CODE PROBLEM - On my machine VS Code was not able to work; that doesn't mean that it won't work on your though - FIX - In case it doesn't work you can use another IDE I simply used Sublime Text
+---> This project is abandoned. This project had been last updated on 4 of January <-> Current version has a few changes that are *not* gonna be implemented in this repository.
 
 # Q&A
 
